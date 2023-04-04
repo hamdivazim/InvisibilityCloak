@@ -2,7 +2,7 @@
 Wear the colour RED, and become invisible!
 
 ## How to use
-Clone this repository and run `main.py`. Hold something red or pink in front of you to test.
+Clone this repository and run `main.py`. Hold something red or pink in front of you to test. Press `q` to exit.
 
 ## Prerequisites
 You will need Python, `cv2` and `numpy`.
