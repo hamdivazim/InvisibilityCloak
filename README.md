@@ -20,7 +20,7 @@ $ pip install numpy
 ```
 
 ## Why did I make this?
-This is a small project I made 2 or 3 years ago and I decidied to share it.
+This is a small project I made 2 or 3 years ago and I decided to share it.
 
 ## License
 InvisibilityCloak is licensed under the Apache License 2.0.
